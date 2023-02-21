@@ -6,3 +6,5 @@ def main(): #function
         if guess > number:
             print("Too high")
             continue
+        if guess < number:
+            print("Too low")
