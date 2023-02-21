@@ -8,3 +8,5 @@ def main(): #function
             continue
         if guess < number:
             print("Too low")
+            continue
+        else:
