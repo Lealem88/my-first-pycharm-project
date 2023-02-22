@@ -10,3 +10,5 @@ def main(): #function
             print("Too low")
             continue
         else:
+            print("Correctly guessed")
+            break
