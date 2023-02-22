@@ -12,3 +12,5 @@ def main(): #function
         else:
             print("Correctly guessed")
             break
+
+if __name__ == "__main__":
