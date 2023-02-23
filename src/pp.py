@@ -14,3 +14,4 @@ def main(): #function
             break
 
 if __name__ == "__main__":
+    main()
