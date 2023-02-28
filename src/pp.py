@@ -1,5 +1,4 @@
 import random
-# A simple number guessing game
 def main(): #function
     number = random.randint(1, 10)
     while True:
