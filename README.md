@@ -1,2 +1,6 @@
-# my-first-pycharm-project
-Contains my early practice code in Python and Java.
+# PyCharm Practice
+
+My first Python and Java projects.
+
+Includes a simple python guessing game and a java loop.
+
